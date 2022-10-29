@@ -2,7 +2,7 @@
 on: 
   workflow_dispatch:
   
-name: 04-run-r-script-with-pkgs
+name: 05-run-r-script-with-pkgs
 
 jobs: 
   write-message:
